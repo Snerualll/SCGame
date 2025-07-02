@@ -2,6 +2,7 @@
   "name": "react",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://snerualll.github.io/SCGame/",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
