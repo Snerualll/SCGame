@@ -1,0 +1,27 @@
+/* src/index.css */
+:root {
+  --color-primary: #cfcfcf;
+
+  --color-bg: #f7f8fa;
+  --color-surface: #ffffff;
+  --color-border: #e0e0e0;
+  --shadow-iso: rgba(0, 0, 0, 0.1);
+  --radius-md: 0.5rem;
+
+  /* Pastel market colors */
+  --color-region-1: #ffb3b3;
+  --color-region-2: #b3ffb3;
+  --color-region-3: #ffffb3;
+  --color-region-4: #b3b3ff;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background: var(--color-bg);
+}
+
+/* Simple reset for our grid placeholders */
+* {
+  box-sizing: border-box;
+}
